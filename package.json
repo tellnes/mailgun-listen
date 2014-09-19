@@ -1,0 +1,33 @@
+{
+  "name": "mailgun-listen",
+  "version": "0.0.0",
+  "description": "mailgun-listen",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.8.2",
+    "lru-cache": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": [
+    "mailgun",
+    "listen",
+    "inbound",
+    "incoming",
+    "mail",
+    "email"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tellnes/mailgun-listen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tellnes/mailgun-listen/issues"
+  },
+  "homepage": "https://github.com/tellnes/mailgun-listen"
+}
